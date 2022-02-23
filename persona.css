@@ -185,8 +185,9 @@ a.notion-link.super-navbar__logo {
 }
 a.notion-link.super-navbar__logo:hover {
     border-radius: 0px !important;
-    background-color: var(--color-text-default) !important;
+/*    background-color: var(--color-text-default) !important;
     color: var(--color-bg-default) !important;
+*/
 }
 .super-navbar__item-list > a {
     border-left: var(--grid) !important;
